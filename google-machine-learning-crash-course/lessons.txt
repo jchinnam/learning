@@ -1,0 +1,21 @@
+# Lessons
+Introduction to ML (3 min) DONE
+Framing (15 min)
+Descending into ML (20 min)
+Reducing Loss (60 min)
+First Steps with TF (65 min)
+Generalization (15 min)
+Training and Test Sets (25 min)
+Validation Set (35 min)
+Representation (35 min)
+Feature Crosses (70 min)
+Regularization: Simplicity (40 min)
+Logistic Regression (20 min)
+Classification (90 min)
+Regularization: Sparsity (20 min)
+Neural Networks (65 min)
+Training Neural Nets (10 min)
+Multi-Class Neural Nets (45 min)
+Embeddings (50 min)
+ML Engineering
+Production ML Systems (3 min)
