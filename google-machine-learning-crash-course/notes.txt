@@ -1,0 +1,9 @@
+# Regression vs. Classification
+
+Regression model: predicts continuous values, ie:
+  What is the value of a house in California?
+  What is the probability that a user will click on this ad?
+
+Classification model: predicts discrete values, ie:
+  Is a given email message spam or not spam?
+  Is this an image of a dog, a cat, or a hamster?

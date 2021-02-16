@@ -1,6 +1,8 @@
+https://developers.google.com/machine-learning/crash-course
+
 # Lessons
 Introduction to ML (3 min) DONE
-Framing (15 min)
+Framing (15 min) DONE
 Descending into ML (20 min)
 Reducing Loss (60 min)
 First Steps with TF (65 min)
